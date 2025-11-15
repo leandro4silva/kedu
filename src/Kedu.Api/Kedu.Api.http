@@ -1,0 +1,6 @@
+@Kedu.Api_HostAddress = http://localhost:5236
+
+GET {{Kedu.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
