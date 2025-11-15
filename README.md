@@ -31,7 +31,7 @@ dotnet ef database update --project .\src\Kedu.Infra.EF\ --startup-project .\src
 ## 🌐 Swagger/OpenAPI
 Acesse a documentação da API em:
 ```
-[http://localhost:5236](http://localhost:5236)/swagger
+[https://localhost:7050](https://localhost:7050)/swagger
 ```
 
 ## Collection 
