@@ -1,4 +1,4 @@
-# 📝 README - Georeferenciamento API
+# 📝 README - kedu API
 
 ## 🚀 Visão Geral
 API para kedu, desenvolvida em .NET com Entity Framework Core.
